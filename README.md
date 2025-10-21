@@ -16,7 +16,7 @@
   <h3 style="color: white; text-align: center; margin: 0;">🚀 Get KrishiGo APK</h3>
   <p style="color: white; text-align: center; margin: 10px 0;">Experience the future of agricultural learning!</p>
   
-  **[📥 DOWNLOAD APK](https://expo.dev/artifacts/eas/moybGR6df2bufCkfUFSGrU.apk)**
+  **[📥 DOWNLOAD APK](https://drive.google.com/file/d/15-fxs8s2M__d8s_q7U9HP8x49IqCXeRn/view?usp=drivesdk)**
 </div>
 
 </div>
@@ -474,7 +474,7 @@ krishigo/
 
 **Ready to transform your farming knowledge?**
 
-### [📥 DOWNLOAD KRISHIGO APK NOW](https://expo.dev/artifacts/eas/moybGR6df2bufCkfUFSGrU.apk)
+### [📥 DOWNLOAD KRISHIGO APK NOW](https://drive.google.com/file/d/15-fxs8s2M__d8s_q7U9HP8x49IqCXeRn/view?usp=drivesdk)
 
 ---
 
