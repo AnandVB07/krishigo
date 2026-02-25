@@ -48,22 +48,6 @@ KrishiGo is a revolutionary **gamified learning platform** designed specifically
 - **Best Practices**: Master proven farming methodologies
 - **Environmental Impact**: Understand the ecological aspects of farming
 
-## 🌟 Why Choose KrishiGo?
-
-### 🎯 **Gamified Learning**
-Transform boring agricultural theory into exciting, interactive experiences
-
-### 🤖 **AI-Powered Support**
-Get personalized assistance and instant answers to your questions
-
-### 🏅 **Achievement System**
-Stay motivated with badges, points, and recognition for your progress
-
-### 📊 **Progress Analytics**
-Track your sustainability score and learning achievements
-
-### 👥 **Community Driven**
-Connect with fellow learners and compete in friendly challenges
 
 ## 📱 App Screenshots
 
@@ -166,6 +150,25 @@ Connect with fellow learners and compete in friendly challenges
 
 ---------------
 ---------------
+
+
+## 🌟 Why Choose KrishiGo?
+
+### 🎯 **Gamified Learning**
+Transform boring agricultural theory into exciting, interactive experiences
+
+### 🤖 **AI-Powered Support**
+Get personalized assistance and instant answers to your questions
+
+### 🏅 **Achievement System**
+Stay motivated with badges, points, and recognition for your progress
+
+### 📊 **Progress Analytics**
+Track your sustainability score and learning achievements
+
+### 👥 **Community Driven**
+Connect with fellow learners and compete in friendly challenges
+
 
 
 ## 🚀 Getting Started
